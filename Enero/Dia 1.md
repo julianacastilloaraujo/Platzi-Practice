@@ -7,3 +7,13 @@
 <br>
 🚀 Cantidad: 22 clases
 <br>
+
+* No se trata de ser "Famoso"
+* Tus futuros jefes te van a googlear
+<br>
+> [!IMPORTANT]
+> No lo puedes parar, mejor controlarlo
+<br>
+* O controlas tu marca personal o la controla un algoritmo (Google, Facebook, Instagram)
+* Enfocar el objetivo hacia una mision
+
