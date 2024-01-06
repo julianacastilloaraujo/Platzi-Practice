@@ -6,6 +6,9 @@ Bienvenido 2024 🌟
 En este repositorio podrás encontrar los proyectos realizados en la plataforma de [Platzi](https://platzi.com/p/jlianacastillo/) desde mi usuario como estudiante autodidacta que pone en practica el <strong> "Nunca parar de aprender"</strong> de la mano de el increible team & comunidad de @platzi 💚🚀
 
 # Cursos realizados ✅
+<a href="https://www.facebook.com/wtmmxoficial/photos/a.101459299555580/145886835112826" target="_blank">
+  <img align="center" width="20%" src="https://user-images.githubusercontent.com/96964513/263138142-f889c553-fdcb-47ab-b765-3c88e8d7d2e2.png" alt="WTM Mexico">
+</a>
 
 # Start -> 1-01-2024 📅
 
