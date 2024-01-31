@@ -12,7 +12,7 @@ En este repositorio podrás encontrar los proyectos realizados en la plataforma 
 
 <!-- Curso 2 : Audiocurso de Cómo Recibir Feedback -->
 <a href="https://platzi.com/p/jlianacastillo/curso/2822-marca-personal/diploma/detalle/" target="_blank">
-  <img align="center" width="20%" src="">
+  <img align="center" width="20%" src="https://private-user-images.githubusercontent.com/96964513/301012265-d1eb49bf-9463-4be2-87c6-c2d5c9ec23c2.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDY2NjU4NjQsIm5iZiI6MTcwNjY2NTU2NCwicGF0aCI6Ii85Njk2NDUxMy8zMDEwMTIyNjUtZDFlYjQ5YmYtOTQ2My00YmUyLTg3YzYtYzJkNWM5ZWMyM2MyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMzElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTMxVDAxNDYwNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTAwZjg3ZjU1NjEyM2M1ODE1NjlhYzQ5Mjc3ZjEwNDdiYTY0MDY4MzhiNDIxYTQ1Nzg5MzU0ZjgzNzM0ODkxZjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.WG9wIDSgNQyFw8z1Wohs8r1iywZrNN6FaGTcRPwemsY">
   
 # Start -> 1-01-2024 📅
 
